@@ -4,7 +4,7 @@ Meet Kedi, a standalone macOS application built exclusively for viewing Git diff
 
 Whether you need a quick overview of your working directory or a detailed analysis of a specific commit, Kedi integrates directly with your local Git repository to deliver instant insights.
 
-<video src="./assets/kedi_01.mp4" width="256" controls style="vertical-align: middle;"></video>
+<video src="https://github.com/user-attachments/assets/2302894d-4109-43e9-9be3-e42a3ec2b8d3" width="512" controls style="vertical-align: middle;"></video>
 
 ✨ CORE FEATURES
 
